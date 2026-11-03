@@ -1,6 +1,8 @@
-pragma solidity ^0..9;
+pragma solidity ^0.9;
+import zeropointAlign;
+import zeropointLuck;
 
-funcction splitTheWinnings (market question, market payout amount, winning split) {
+async function splitTheWinnings (market question, market payout amount, winning split) {
 
 winning split if bet with deposited money :(),
 
