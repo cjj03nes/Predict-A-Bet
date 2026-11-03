@@ -1,5 +1,6 @@
 pragma solidity ^0.9;
-
+import zeropointAlign;
+import zeropointLuck;
 
 function deposit money (type, uint256, amount) {
 
