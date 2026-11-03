@@ -4,7 +4,17 @@ import zeropointLuck;
 
 function withdraw money (type, uint256, amount) {
 
-type: bitcoin, bitcoin lightning, ethereum, binance, stellar lumens, usdc, usdt, usd],
+type:[
+bitcoin, 
+bitcoin lightning, 
+ethereum, 
+solana, 
+binance, 
+stellar lumens, 
+usdc, 
+usdt, 
+usd
+],
 
 amount :[],
 
