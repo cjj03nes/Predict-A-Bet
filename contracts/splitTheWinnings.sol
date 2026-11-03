@@ -1,6 +1,7 @@
 pragma solidity ^0.9;
 import zeropointAlign;
 import zeropointLuck;
+import gateWayTimeBridge;
 
 async function splitTheWinnings (market question, market payout amount, winning split) {
 
