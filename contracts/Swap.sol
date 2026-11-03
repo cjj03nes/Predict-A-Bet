@@ -10,5 +10,9 @@ uniswap,
 stellarterm,
 ],
 
+sell asset from => exchange,
+then receive asset to, from exchange => msg.sender account address,
+asset to, asset from == asset amount - swapFees,
+
 
 }
