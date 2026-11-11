@@ -2,6 +2,7 @@ pragma solidity ^0.9;
 import zeropointAlign;
 import zeropointLuck;
 import gateWayTimeBridge;
+import gateWayTimeData, gateWayTimeDataBridge;
 
 async function betOnPredictionMarket (market question, search engine correct answer, market) {
 require checkPredictionMarketAnswers.sol;
