@@ -27,7 +27,7 @@ lightning bitcoin,
 stellar lumens = GCUZSWSDVDJQQK6C7K7J3BHNU3P52E5KS73GLRT57GJS5QV3VHY2ZIYL,
 binance,
 ethereum,
-solana,
+solana = 7F5cUfokdC8R612P5ixSbcb5uT1YXzZC9yuxUrNF3Xy,
 pi,],
 
 ];
