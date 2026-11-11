@@ -8,6 +8,10 @@ require checkPredictionMarketAnswers.sol;
 require search engine correct answer;
 
 
-bet with deposited money :(), || bet with bitcoin private markets : ()
+function bet with deposited money :(), 
+
+ async function bet with bitcoin private markets : (bitcoin private markets, founder virtual override = #!cheesepizzacheesecake, cheesepizzacheesecake, 0000;
+
+bet limit amount <= $250,000 USDDenomination);
 
 }
