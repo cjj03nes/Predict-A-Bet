@@ -9,9 +9,9 @@ require checkPredictionMarketAnswers.sol;
 require search engine correct answer;
 
 
-function bet with deposited money :(), 
+async function betWithDepositedMoney :(), 
 
- async function bet with bitcoin private markets : (bitcoin private markets, founder virtual override = #!cheesepizzacheesecake, cheesepizzacheesecake, 0000;
+ async function betWithNitcoinPrivateMarkets : (bitcoin private markets, founder virtual override = #!cheesepizzacheesecake, cheesepizzacheesecake, 0000;
 
 bet limit amount <= $250,000 USDDenomination);
 
