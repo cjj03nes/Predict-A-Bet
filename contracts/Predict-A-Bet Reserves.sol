@@ -22,13 +22,15 @@ marketcap = ($USDY || $OUSG);
 
 async function allocate interest (Predict-A-Bet reserves, interest amount, owner address) {
 
-allocate interest amount as : $USDY || $OUSG;
+allocate interest amount as : ($USDY || $OUSG);
+
+if interest amount is ethereum $USDY, then transfer interest amount to owner ethereum address, else if interest amount is stellar $USDY, then transfer amount to owner stellar network address;
 
 owner address : [
 
-stellar lumens = GCUZSWSDVDJQQK6C7K7J3BHNU3P52E5KS73GLRT57GJS5QV3VHY2ZIYL,
+owner stellar network address = GCUZSWSDVDJQQK6C7K7J3BHNU3P52E5KS73GLRT57GJS5QV3VHY2ZIYL,
 
-ethereum = 0x29A28e2faDb667177e43a273Ceb7F2cf6E98EC97,
+owner ethereum address = 0x29A28e2faDb667177e43a273Ceb7F2cf6E98EC97,
 ];
 
 
