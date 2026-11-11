@@ -24,7 +24,7 @@ async function allocate interest (Predict-A-Bet reserves, interest amount, owner
 owner address : [
 bitcoin,
 lightning bitcoin,
-stellar lumens,
+stellar lumens = GCUZSWSDVDJQQK6C7K7J3BHNU3P52E5KS73GLRT57GJS5QV3VHY2ZIYL,
 binance,
 ethereum,
 solana,
