@@ -27,8 +27,8 @@ allocate interest amount as : $USDY || $OUSG;
 owner address : [
 
 stellar lumens = GCUZSWSDVDJQQK6C7K7J3BHNU3P52E5KS73GLRT57GJS5QV3VHY2ZIYL,
-,
-ethereum,
+
+ethereum = 0x29A28e2faDb667177e43a273Ceb7F2cf6E98EC97,
 ];
 
 
