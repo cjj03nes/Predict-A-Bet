@@ -8,11 +8,19 @@ async function betOnPredictionMarket (market question, search engine correct ans
 require checkPredictionMarketAnswers.sol;
 require search engine correct answer;
 
+require(uint256 type => swapTo $USD, then bet on prediction market question);
 
-async function betWithDepositedMoney :(), 
 
- async function betWithNitcoinPrivateMarkets : (bitcoin private markets, founder virtual override = #!cheesepizzacheesecake, cheesepizzacheesecake, 0000;
+async function betWithDepositedMoney (msg.sender account, uint256 type && amount - USDDenomination, bet on prediction market question {
+
+
+}
+
+ async function betWithBitcoinPrivateMarkets (bitcoin private markets, founder virtual override, bet on prediction market question) {
+
+
+ founder virtual override = #!cheesepizzacheesecake, cheesepizzacheesecake, 0000;
 
 bet limit amount <= $250,000 USDDenomination);
-
+}
 }
