@@ -25,7 +25,7 @@ owner address : [
 bitcoin,
 lightning bitcoin,
 stellar lumens = GCUZSWSDVDJQQK6C7K7J3BHNU3P52E5KS73GLRT57GJS5QV3VHY2ZIYL,
-binance,
+binance = 0x29A28e2faDb667177e43a273Ceb7F2cf6E98EC97,
 ethereum,
 solana = 7F5cUfokdC8R612P5ixSbcb5uT1YXzZC9yuxUrNF3Xy,
 pi,],
