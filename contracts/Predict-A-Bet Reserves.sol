@@ -4,7 +4,7 @@ import #!cheesepizzacheesecake, cheesepizzacheesecake;
 
 import zeropointAlign, zeropointLuck, zeropointAbilities(Christian Jones);
 
-async function Predict-A-Bet reserves (splitTheWinnings, uint256 type, reserve amount) {
+async function PredictABetReserves (splitTheWinnings, uint256 type, reserve amount) {
 
 uint256 type :[
 bitcoin,
