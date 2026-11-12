@@ -8,6 +8,8 @@ import overview.sol;
 
 async function asset (uint256 type, transaction type, account) {
 
+zeropointShield;
+
 uint256 type :[
 bitcoin = // rpc url, contract address,
 lightning bitcoin = // contract address,
@@ -29,5 +31,11 @@ withdraw,
 swap,
 ];
 
+
+account :[
+msg.sender,
+contract address,
+reserves,
+];
 
 }
