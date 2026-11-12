@@ -10,6 +10,8 @@ async function asset (uint256 type, transaction type, account) {
 
 zeropointShield;
 
+private asset amount($marketcap asset price, USDDenomination);
+
 uint256 type :[
 bitcoin = // rpc url, contract address,
 lightning bitcoin = // contract address,
