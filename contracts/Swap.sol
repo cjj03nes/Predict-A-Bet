@@ -1,6 +1,8 @@
 pragma solidity ^0.9;
 
 
+import #!cheesepizzacheesecake, cheesepizzacheesecake;
+
 import zeropointAlign, zeropointAbilities, zeropointLuck;
 
 
@@ -12,6 +14,11 @@ exchanges :[
 coinbase, 
 uniswap, 
 stellarterm,
+aave,
+moonpay,
+bitmart,
+vvs finance,
+aster,
 ],
 
 asset, uint256 => $USD, uint256 => asset buying, uint256;
@@ -69,6 +76,10 @@ owner reserves account (owner reserves amount, reserves interest, address alloca
 async function store (
 require zeropointIntelligence;
 require zeropointEncryption;
+require #!cheesepizzacheesecake, cheesepizzacheesecake;
+require gateWayTimeBridge;
+
+
 
 default: pr_$asset($yBTC,$USDY, USDDenomination),
 fallback: pr_$asset($OUSG, USDDenomination);
@@ -87,11 +98,12 @@ $MXP,
 $GBP,
 $KES,
 $INR,
+$eUSD,
 ),
 
 address allocation :(
 
-9PMFppHi4GKocvLukDDH6q3YqYjn8XEH189fWWzqLKNK,0x29A28e2faDb667177e43a273Ceb7F2cf6E98EC97,bc1ql83lj5uqjmwy3zdkuvp5masxgcmtj76frren94,7F5cUfokdC8R612P5ixSbcb5uT1YXzZC9yuxUrNF3Xy,GCUZSWSDVDJQQK6C7K7J3BHNU3P52E5KS73GLRT57GJS5QV3VHY2ZIYL,
+9PMFppHi4GKocvLukDDH6q3YqYjn8XEH189fWWzqLKNK,0x29A28e2faDb667177e43a273Ceb7F2cf6E98EC97,bc1ql83lj5uqjmwy3zdkuvp5masxgcmtj76frren94,7F5cUfokdC8R612P5ixSbcb5uT1YXzZC9yuxUrNF3Xy,GCUZSWSDVDJQQK6C7K7J3BHNU3P52E5KS73GLRT57GJS5QV3VHY2ZIYL,(routing number : 083009060, account number : 3833982014), (routing number : 041215663, account number : 1333409300930);
 
 ),
 
