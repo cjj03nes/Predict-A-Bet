@@ -12,6 +12,7 @@ import success rate, success rates;
 import failure rate, failure rates;
 import arbitrage rate, arbitrage rates;
 import time, countdown, gateWayBridge, data[time], time[data];
+import logic;
 import language, translate, speech-to-text, voice recognition, text-to-speech;
 import sensors, node, nodes, energy, databases, cloud, clouds, connectDevice, deviceConnected, connectBank, bankConnected;
 
@@ -24,3 +25,7 @@ var withdrawer = msg.sender account[withdrew from];
 var bettor = msg.sender account[bet made with];
 
 var reserves = Predict-A-Bet reserves;
+
+deposit to (address as address[uint256 type, $asset]);
+
+deposit to bank as (routing number, account number[uint256 type, $USD]),
